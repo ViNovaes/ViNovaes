@@ -77,8 +77,12 @@
 <br/>
 <br/>
 
-##
+## 🤖 Perfil
 
+<div align="">
+<img src="https://komarev.com/ghpvc/?username=ViNovaes&&style=flat-square" align="center" />
+</div>  
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinovaes&show_icons=true&locale=en&layout=compact&theme=transparent" alt="vinovaes" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinovaes&show_icons=true&theme=transparent" alt="vinovaes" /></p>
 
