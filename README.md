@@ -16,12 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinovaes&show_icons=true&locale=en&layout=compact&theme=transparent" alt="vinovaes" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinovaes&show_icons=true&theme=transparent" alt="vinovaes" /></p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github.com/vinovaes/vinovaes/blob/output/github-contribution-grid-snake.svg"/></p>
-
-
-
-![snake gif](https://github.com/vinovaes/vinovaes/blob/output/github-contribution-grid-snake.svg)
-
-![snake gif](https://github.com/Formandodev/vinovaes/blob/output/github-contribution-grid-snake.svg)
